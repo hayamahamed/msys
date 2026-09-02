@@ -1,5 +1,5 @@
 <div align="center">
-    <img src=docs/msys.svg width=200 />
+    <img src=msys.svg width=200 />
 </div>
 
 # MSys
